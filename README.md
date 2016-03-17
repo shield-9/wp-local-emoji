@@ -2,9 +2,9 @@
 * **Contributors**: extendwings,
 * **Donate link**: https://www.extendwings.com/donate/
 * **Tags**: emoji, japanese, local, offline
-* **Requires at least**: 4.2
-* **Tested up to**: 4.2.2
 * **Stable tag**: 0.1.0
+* **Requires at least**: 4.5
+* **Tested up to**: 4.5
 * **License**: AGPLv3 or later
 * **License URI**: http://www.gnu.org/licenses/agpl.txt
 
@@ -37,7 +37,7 @@ With this plugin, *you are free from internet!!*
 ## Frequently Asked Questions
 
 = This plugin is broken! Thanks for nothing! =
-First of all, we supports PHP 5.5+, MySQL 5.5+, WordPress 4.2.2+. Old software(vulnerable!) is not supported.
+First of all, we supports PHP 5.6+, MySQL 5.5+, WordPress 4.5+. Old software(vulnerable!) is not supported.
 If you're in supported environment, please create [pull request](https://github.com/shield-9/wp-local-emoji/compare/) or [issue](https://github.com/shield-9/wp-local-emoji/issues/new).
 
 ## Screenshots
