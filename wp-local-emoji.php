@@ -3,7 +3,7 @@
  * Plugin Name: WP Local Emoji
  * Plugin URI: https://www.extendwings.com
  * Description: Use emoji without external items
- * Version: 0.1.0
+ * Version: 0.2.0
  * Author: Daisuke Takahashi (Extend Wings)
  * Author URI: https://www.extendwings.com
  * License: AGPLv3 or later
